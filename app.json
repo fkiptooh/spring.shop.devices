@@ -1,0 +1,8 @@
+{
+  "name": "spring.shop.devices",
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
